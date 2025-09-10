@@ -29,7 +29,7 @@ src/
 ## ⚡ Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/multilingual-blogging-platform.git
+git clone https://github.com/NeerajKumar327/Multilingual-Blogging-Platform.git
 cd multilingual-blogging-platform/project
 
 ### 2. Install dependencies
