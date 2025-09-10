@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "create": "作成",
+    "search": "検索",
+    "language": "言語",
+    "logout": "ログアウト",
+    "login": "ログイン",
+    "register": "登録"
+  },
+  "auth": {
+    "loginTitle": "お帰りなさい",
+    "registerTitle": "アカウント作成",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirmPassword": "パスワード確認",
+    "fullName": "フルネーム",
+    "username": "ユーザー名",
+    "loginButton": "ログイン",
+    "registerButton": "登録",
+    "switchToRegister": "アカウントをお持ちでないですか？登録",
+    "switchToLogin": "すでにアカウントをお持ちですか？ログイン",
+    "loginSuccess": "ログイン成功！",
+    "registerSuccess": "登録成功！"
+  },
+  "dashboard": {
+    "welcome": "BlogSphereへようこそ",
+    "subtitle": "あなたの思いを世界に共有しましょう",
+    "recentPosts": "最新の投稿",
+    "myPosts": "私の投稿",
+    "createPost": "新しい投稿を作成",
+    "noPosts": "投稿がありません",
+    "stats": {
+      "totalPosts": "総投稿数",
+      "myPosts": "私の投稿",
+      "comments": "コメント",
+      "languages": "言語"
+    }
+  },
+  "posts": {
+    "title": "タイトル",
+    "content": "内容",
+    "tags": "タグ",
+    "language": "言語",
+    "author": "著者",
+    "createdAt": "作成日",
+    "updatedAt": "更新日",
+    "addComment": "コメントを追加",
+    "comments": "コメント",
+    "noComments": "まだコメントがありません",
+    "sharePost": "投稿を共有",
+    "editPost": "投稿を編集",
+    "deletePost": "投稿を削除",
+    "postCreated": "投稿が正常に作成されました！",
+    "postUpdated": "投稿が正常に更新されました！",
+    "postDeleted": "投稿が正常に削除されました！"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "ja": "日本語",
+    "de": "Deutsch"
+  }
+}

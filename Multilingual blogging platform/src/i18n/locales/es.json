@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "search": "Buscar",
+    "language": "Idioma",
+    "logout": "Cerrar sesión",
+    "login": "Iniciar sesión",
+    "register": "Registrarse"
+  },
+  "auth": {
+    "loginTitle": "Bienvenido de nuevo",
+    "registerTitle": "Crear cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "fullName": "Nombre completo",
+    "username": "Nombre de usuario",
+    "loginButton": "Iniciar sesión",
+    "registerButton": "Registrarse",
+    "switchToRegister": "¿No tienes cuenta? Regístrate",
+    "switchToLogin": "¿Ya tienes cuenta? Inicia sesión",
+    "loginSuccess": "¡Inicio de sesión exitoso!",
+    "registerSuccess": "¡Registro exitoso!"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido a BlogSphere",
+    "subtitle": "Comparte tus pensamientos con el mundo",
+    "recentPosts": "Publicaciones recientes",
+    "myPosts": "Mis publicaciones",
+    "createPost": "Crear nueva publicación",
+    "noPosts": "No hay publicaciones disponibles",
+    "stats": {
+      "totalPosts": "Total de publicaciones",
+      "myPosts": "Mis publicaciones",
+      "comments": "Comentarios",
+      "languages": "Idiomas"
+    }
+  },
+  "posts": {
+    "title": "Título",
+    "content": "Contenido",
+    "tags": "Etiquetas",
+    "language": "Idioma",
+    "author": "Autor",
+    "createdAt": "Creado",
+    "updatedAt": "Actualizado",
+    "addComment": "Agregar comentario",
+    "comments": "Comentarios",
+    "noComments": "Aún no hay comentarios",
+    "sharePost": "Compartir publicación",
+    "editPost": "Editar publicación",
+    "deletePost": "Eliminar publicación",
+    "postCreated": "¡Publicación creada exitosamente!",
+    "postUpdated": "¡Publicación actualizada exitosamente!",
+    "postDeleted": "¡Publicación eliminada exitosamente!"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "ja": "日本語",
+    "de": "Deutsch"
+  }
+}

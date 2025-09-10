@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "language": "Language",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "registerTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "username": "Username",
+    "loginButton": "Sign In",
+    "registerButton": "Sign Up",
+    "switchToRegister": "Don't have an account? Sign up",
+    "switchToLogin": "Already have an account? Sign in",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful!"
+  },
+  "dashboard": {
+    "welcome": "Welcome to BlogSphere",
+    "subtitle": "Share your thoughts with the world",
+    "recentPosts": "Recent Posts",
+    "myPosts": "My Posts",
+    "createPost": "Create New Post",
+    "noPosts": "No posts available",
+    "stats": {
+      "totalPosts": "Total Posts",
+      "myPosts": "My Posts",
+      "comments": "Comments",
+      "languages": "Languages"
+    }
+  },
+  "posts": {
+    "title": "Title",
+    "content": "Content",
+    "tags": "Tags",
+    "language": "Language",
+    "author": "Author",
+    "createdAt": "Created",
+    "updatedAt": "Updated",
+    "addComment": "Add Comment",
+    "comments": "Comments",
+    "noComments": "No comments yet",
+    "sharePost": "Share Post",
+    "editPost": "Edit Post",
+    "deletePost": "Delete Post",
+    "postCreated": "Post created successfully!",
+    "postUpdated": "Post updated successfully!",
+    "postDeleted": "Post deleted successfully!"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "ja": "日本語",
+    "de": "Deutsch"
+  }
+}

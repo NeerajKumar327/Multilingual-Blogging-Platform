@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "language": "Sprache",
+    "logout": "Abmelden",
+    "login": "Anmelden",
+    "register": "Registrieren"
+  },
+  "auth": {
+    "loginTitle": "Willkommen zurück",
+    "registerTitle": "Konto erstellen",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "fullName": "Vollständiger Name",
+    "username": "Benutzername",
+    "loginButton": "Anmelden",
+    "registerButton": "Registrieren",
+    "switchToRegister": "Kein Konto? Registrieren Sie sich",
+    "switchToLogin": "Bereits ein Konto? Anmelden",
+    "loginSuccess": "Anmeldung erfolgreich!",
+    "registerSuccess": "Registrierung erfolgreich!"
+  },
+  "dashboard": {
+    "welcome": "Willkommen bei BlogSphere",
+    "subtitle": "Teilen Sie Ihre Gedanken mit der Welt",
+    "recentPosts": "Neueste Beiträge",
+    "myPosts": "Meine Beiträge",
+    "createPost": "Neuen Beitrag erstellen",
+    "noPosts": "Keine Beiträge verfügbar",
+    "stats": {
+      "totalPosts": "Gesamte Beiträge",
+      "myPosts": "Meine Beiträge",
+      "comments": "Kommentare",
+      "languages": "Sprachen"
+    }
+  },
+  "posts": {
+    "title": "Titel",
+    "content": "Inhalt",
+    "tags": "Tags",
+    "language": "Sprache",
+    "author": "Autor",
+    "createdAt": "Erstellt",
+    "updatedAt": "Aktualisiert",
+    "addComment": "Kommentar hinzufügen",
+    "comments": "Kommentare",
+    "noComments": "Noch keine Kommentare",
+    "sharePost": "Beitrag teilen",
+    "editPost": "Beitrag bearbeiten",
+    "deletePost": "Beitrag löschen",
+    "postCreated": "Beitrag erfolgreich erstellt!",
+    "postUpdated": "Beitrag erfolgreich aktualisiert!",
+    "postDeleted": "Beitrag erfolgreich gelöscht!"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "ja": "日本語",
+    "de": "Deutsch"
+  }
+}
